@@ -92,7 +92,7 @@ section{
     right: 15px;
 }
 
-.icon-top :hover{
+.icon-top:hover{
     box-shadow: 0 0 1rem var(--main-color);
 } 
 
@@ -551,4 +551,5 @@ span{
         text-align: center;
         margin-top: 2rem;
     }
+
 }
