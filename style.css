@@ -255,7 +255,7 @@ span{
 }
 
 .skills-container .skills-box{
-    flex: 1 1 50rem;
+    flex: 1 1 40rem;
     background: var(--second-bg-color);
     padding: 3rem 2rem 6rem;
     border-radius: 2rem;
@@ -551,4 +551,5 @@ span{
         text-align: center;
         margin-top: 2rem;
     }
+
 }
